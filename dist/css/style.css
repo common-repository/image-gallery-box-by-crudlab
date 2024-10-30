@@ -1,0 +1,92 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 9, 2015, 11:01:30 AM
+    Author     : Salman Mukhtar
+*/
+#wpwrap {
+    background: none repeat scroll 0 0 #f1f1f1;
+}
+.plugins-wrap{
+
+    margin:30px auto;
+}
+.col-left{
+    width: 75%;
+    padding: 0 2%;
+    background: #fafafa;
+    border: 1px solid #ccc;
+}
+.col-left .row-wrap{
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.inline-block{
+    display: inline-block;
+}
+.small{
+    line-height: 38px;
+}
+.clearfix{
+    clear: both;
+    display: block;
+    content: "";
+}
+.pull-left{
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+.col-left .block{
+    margin-bottom: 10px;
+}
+.col-left .where{
+    margin-right: 15px;
+    width: 170px;
+    text-align: right;
+    padding-top: 3px;
+    padding-bottom: 0;
+}
+.col-left .shortcode{
+    color: #fff;
+    padding: 0 10px 3px;
+}
+.col-left label{
+    margin-right: 10px;
+}
+.col-left .form-control{
+    height: auto;
+}
+.col-left button{
+    cursor: pointer;
+}
+.bootstrap-switch-handle-off::before{
+
+}
+.align-left{
+    text-align: left !important;
+}
+
+.plugins-for-you{
+    color: #000;
+}
+.plugins-for-you .download-btns{
+    margin: 15px 0;
+}
+.plugins-for-you .tile-title{
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+.plugins-for-you .download-btns .btn{
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
